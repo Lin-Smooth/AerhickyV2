@@ -1,2 +1,2 @@
 # AerhickyV2
-You should know what it is.
+You should know what this is.
